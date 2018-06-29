@@ -1,2 +1,2 @@
-# gas-sql-4-spreadsheet
-異なるGoogle SpreadsheetをSQLクエリライクに処理するライブラリです
+# What's this?
+異なるGoogle SpreadsheetをSQLクエリライクに処理する関数を提供するGoogle Apps Script向けライブラリです。
